@@ -1,0 +1,40 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328PB"</DEVICE>
+ <WORKING_DIR>C:\Users\Pablo Hernandez\Documents\Programa 1\A1MicroPabloHdz\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Pablo Hernandez\Documents\Programa 1\A1MicroPabloHdz\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328PBdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Pablo Hernandez\Documents\Programa 1\A1MicroPabloHdz\Debug\A1MicroPabloHdz.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>A1MicroPabloHdz.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>A1MicroPabloHdz.map</FILE>
+  <FILE>A1MicroPabloHdz.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>C:\Users\Pablo Hernandez\Documents\Programa 1\A1MicroPabloHdz\main.asm</FILE><LINE>28</LINE></start>
+  <fr_5k><FILE>C:\Users\Pablo Hernandez\Documents\Programa 1\A1MicroPabloHdz\main.asm</FILE><LINE>49</LINE></fr_5k>
+  <fr_25k><FILE>C:\Users\Pablo Hernandez\Documents\Programa 1\A1MicroPabloHdz\main.asm</FILE><LINE>56</LINE></fr_25k>
+  <fr_60k><FILE>C:\Users\Pablo Hernandez\Documents\Programa 1\A1MicroPabloHdz\main.asm</FILE><LINE>63</LINE></fr_60k>
+  <fr_80k><FILE>C:\Users\Pablo Hernandez\Documents\Programa 1\A1MicroPabloHdz\main.asm</FILE><LINE>70</LINE></fr_80k>
+  <delay5k><FILE>C:\Users\Pablo Hernandez\Documents\Programa 1\A1MicroPabloHdz\main.asm</FILE><LINE>82</LINE></delay5k>
+  <delay25k><FILE>C:\Users\Pablo Hernandez\Documents\Programa 1\A1MicroPabloHdz\main.asm</FILE><LINE>93</LINE></delay25k>
+  <delay60k><FILE>C:\Users\Pablo Hernandez\Documents\Programa 1\A1MicroPabloHdz\main.asm</FILE><LINE>100</LINE></delay60k>
+  <delay80k><FILE>C:\Users\Pablo Hernandez\Documents\Programa 1\A1MicroPabloHdz\main.asm</FILE><LINE>107</LINE></delay80k>
+  <outer_5k><FILE>C:\Users\Pablo Hernandez\Documents\Programa 1\A1MicroPabloHdz\main.asm</FILE><LINE>84</LINE></outer_5k>
+  <inner_5k><FILE>C:\Users\Pablo Hernandez\Documents\Programa 1\A1MicroPabloHdz\main.asm</FILE><LINE>86</LINE></inner_5k>
+  <loop_25k><FILE>C:\Users\Pablo Hernandez\Documents\Programa 1\A1MicroPabloHdz\main.asm</FILE><LINE>95</LINE></loop_25k>
+  <loop_60k><FILE>C:\Users\Pablo Hernandez\Documents\Programa 1\A1MicroPabloHdz\main.asm</FILE><LINE>102</LINE></loop_60k>
+  <loop_80k><FILE>C:\Users\Pablo Hernandez\Documents\Programa 1\A1MicroPabloHdz\main.asm</FILE><LINE>109</LINE></loop_80k>
+ </LABELS>
+</ASSEMBLER_INFO>
